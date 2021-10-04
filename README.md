@@ -10,7 +10,7 @@ There is a folder corresponding to each modality mentioned in the paper.
 
 If you find our work useful, consider citing us:
 ```
-@InProceedings{pmlr-v97-verma19a,
+@InProceedings{hypmix,
   title = 	 {HypMix: Hyperbolic Interpolative Data Augmentation},
   author = 	 {Sawhney, Ramit and Thakkar, Megh and Agarwal, Shivam and Jin, Di and Yang, Diyi and Flek, Lucie},
   booktitle = 	 {Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021)},
